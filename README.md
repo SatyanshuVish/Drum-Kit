@@ -1,2 +1,3 @@
 # Drum-Kit
-Applied JavaScript learnings to make this beautiful small project.
+Play this musical web application by hitting the keyboard buttons.
+Have a look:https://satyanshuvishwakarma.github.io/Drum-Kit/
